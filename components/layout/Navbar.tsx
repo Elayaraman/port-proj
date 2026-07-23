@@ -8,6 +8,9 @@ export default function Navbar() {
           DevPortfolio
         </Link>
         <nav className="hidden md:flex items-center gap-6 text-sm font-medium">
+          <Link href="/" className="text-gray-300 hover:text-[#32FFCE] transition-colors">
+            Home
+          </Link>
           <Link href="/projects" className="text-gray-300 hover:text-[#32FFCE] transition-colors">
             Projects
           </Link>
