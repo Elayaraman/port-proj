@@ -25,12 +25,6 @@ export default function ProjectsSection() {
             <p className="text-[10px] font-bold tracking-[0.2em] text-[#32FFCE] uppercase">Selected Work</p>
             <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl text-white">Projects</h2>
           </div>
-          <Link
-            href="/projects"
-            className="inline-flex items-center gap-2 text-sm font-bold text-[#32FFCE] hover:bg-[#32FFCE]/10 transition-colors border border-[#1d283a] rounded-md px-6 py-2.5"
-          >
-            View All Experiments
-          </Link>
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-10">
