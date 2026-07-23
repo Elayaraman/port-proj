@@ -1,8 +1,8 @@
-import HeroSection from "@/components/HeroSection";
-import ExpertiseSection from "@/components/ExpertiseSection";
-import ExperienceSection from "@/components/ExperienceSection";
-import ProjectsSection from "@/components/ProjectsSection";
-import CtaSection from "@/components/CtaSection";
+import HeroSection from "@/components/sections/HeroSection";
+import ExpertiseSection from "@/components/sections/ExpertiseSection";
+import ExperienceSection from "@/components/sections/ExperienceSection";
+import ProjectsSection from "@/components/sections/ProjectsSection";
+import CtaSection from "@/components/sections/CtaSection";
 
 export default function Home() {
   return (
